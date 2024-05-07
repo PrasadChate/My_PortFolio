@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  Rac_logo,
 } from "../assets";
 
 export const navLinks = [
@@ -118,7 +119,7 @@ const experiences = [
   {
     title: "React.js Developer",
     company_name: "Renuka Auto components",
-    icon: Renuka_Auto_components,
+    icon: Rac_logo,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
