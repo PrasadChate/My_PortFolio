@@ -117,15 +117,15 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "Renuka Auto components",
+    icon: Renuka_Auto_components,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using MERN  and other related technologies for inventory management.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Applying Traceability of Raw Material Pop up notification functionality and Report generation based on transactions.",
     ],
   },
   {
