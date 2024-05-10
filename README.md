@@ -51,7 +51,7 @@ cd My_PortFolio
 Installation
 
 Install the project dependencies using npm:
-```bash
+```assembly
 npm install
 Set Up Environment Variables
 ```
