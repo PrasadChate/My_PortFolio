@@ -45,7 +45,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/PrasadChate/My_PortFolio.git
+git clone [https://github.com/PrasadChate/My_PortFolio.git](https://github.com/PrasadChate/My_PortFolio.git)
 cd My_PortFolio
 
 Installation
