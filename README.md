@@ -1,11 +1,11 @@
-🤖 Introduction
+## 🤖 Introduction
 By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 React.js
 Three.js
 React Three Fiber
@@ -14,7 +14,7 @@ Email JS
 Vite
 Tailwind CSS
 
-🔋 Features
+## 🔋 Features
 👉 Customizable 3D Hero Section: Includes a 3D desktop model easily customizable to suit specific needs.
 
 👉 Interactive Experience and Work Sections: Utilizes animations powered by framer motion for engaging user experience.
@@ -33,7 +33,7 @@ Tailwind CSS
 
 and many more, including code architecture and reusability
 
-🤸 Quick Start
+## 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
 Prerequisites
@@ -71,7 +71,7 @@ npm run dev
 
 Open http://localhost:5173 in your browser to view the project.
 
-🕸️ Snippets
+## 🕸️ Snippets
 constants.js
 index.css
 Motion.js
