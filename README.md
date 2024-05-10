@@ -46,8 +46,9 @@ npm (Node Package Manager)
 Cloning the Repository
 
 git clone [https://github.com/PrasadChate/My_PortFolio.git](https://github.com/PrasadChate/My_PortFolio.git)
+```assembly
 cd My_PortFolio
-
+```
 Installation
 
 Install the project dependencies using npm:
