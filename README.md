@@ -6,13 +6,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 
 ## ⚙️ Tech Stack
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-Email JS
-Vite
-Tailwind CSS
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
 
 ## 🔋 Features
 👉 Customizable 3D Hero Section: Includes a 3D desktop model easily customizable to suit specific needs.
