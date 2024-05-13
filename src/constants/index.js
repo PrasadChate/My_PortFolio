@@ -199,7 +199,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "E-Commerce",
     description:
       "Created a MERN Stack E-Commerce website as a DBMS project in which all functionalities are implemented same as the functionalities provided in Amazon,Flipkart websites except Payment Gateway. ",
     tags: [
