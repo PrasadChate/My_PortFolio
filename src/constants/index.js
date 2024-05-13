@@ -220,7 +220,7 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Candy Crush",
+    name: "Candy Crush Clone",
     description:
       "A basic Candy Crush like Web application which allows the user to play and score points.",
     tags: [
@@ -241,7 +241,7 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Chat App",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
