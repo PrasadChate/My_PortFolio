@@ -201,7 +201,7 @@ const projects = [
   {
     name: "Car Rent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Created a MERN Stack E-Commerce website as a DBMS project in which all functionalities are implemented same as the functionalities provided in Amazon,Flipkart websites except Payment Gateway. ",
     tags: [
       {
         name: "react",
