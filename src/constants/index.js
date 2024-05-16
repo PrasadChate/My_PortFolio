@@ -20,7 +20,7 @@ import {
   tesla,
   shopify,
   carrent,
-  jobit,
+  candy_crush,
   tripguide,
   threejs,
   Rac_logo,
@@ -217,7 +217,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/PrasadChate/E-commerce",
   },
   {
     name: "Candy Crush Clone",
@@ -237,8 +237,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: candy_crush,
+    source_code_link: "https://candy-crush-clone-amber.vercel.app/",
   },
   {
     name: "Chat App",
@@ -259,7 +259,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/PrasadChate/Chat-App-MERN-",
   },
 ];
 
