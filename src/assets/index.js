@@ -28,7 +28,7 @@ import Rac_logo from "./company/Rac_logo.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import candy_crush from "./candy_crush.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -58,7 +58,7 @@ export {
   starbucks,
   tesla,
   carrent,
-  jobit,
+  candy_crush,
   tripguide,
   Rac_logo,
 };
