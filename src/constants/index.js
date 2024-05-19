@@ -243,7 +243,7 @@ const projects = [
   {
     name: "Chat App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive Chat App with End-To-End encryption provided for multiple users , created using MERN.",
     tags: [
       {
         name: "nextjs",
