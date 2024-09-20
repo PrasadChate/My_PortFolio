@@ -1,7 +1,7 @@
 import {
   mobile,
   backend,
-  creator,
+  AI,
   web,
   javascript,
   typescript,
@@ -55,8 +55,8 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "AI Developer",
+    icon: AI,
   },
 ];
 
