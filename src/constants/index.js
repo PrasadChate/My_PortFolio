@@ -121,7 +121,7 @@ const experiences = [
     company_name: "Renuka Auto components",
     icon: Rac_logo,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2023 - February 2023",
     points: [
       "Developing and maintaining web applications using MERN  and other related technologies for inventory management.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
