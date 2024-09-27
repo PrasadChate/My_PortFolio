@@ -25,6 +25,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import Rac_logo from "./company/Rac_logo.png";
+import viit_cy_logo from "./company/viit_cy_logo.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -61,4 +62,5 @@ export {
   candy_crush,
   tripguide,
   Rac_logo,
+  viit_cy_logo,
 };
