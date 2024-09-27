@@ -128,7 +128,8 @@ const experiences = [
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Applying Traceability of Raw Material Pop up notification functionality and Report generation based on transactions.",
-    ],
+    ]},
+  {
     title: "Technical Team Member",
     company_name: "CyberCell VIIT",
     icon: viit_cy_logo,
@@ -138,7 +139,7 @@ const experiences = [
       "Worked in the development team of VishwaCTF’23, which had a global participation of 2700+ from 98 countries.",
       "Designed 5+ Challenges in various domains like Reverse Engineering Steganography, Web and Cryptography.",
       "Kali Linux .",
-    ],
+    ]
     
   }];
 
