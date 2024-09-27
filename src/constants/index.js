@@ -23,6 +23,7 @@ import {
   candy_crush,
   tripguide,
   threejs,
+  viit_cy_logo,
   Rac_logo,
 } from "../assets";
 
@@ -121,13 +122,24 @@ const experiences = [
     company_name: "Renuka Auto components",
     icon: Rac_logo,
     iconBg: "#383E56",
-    date: "September 2023 - February 2023",
+    date: "September 2023 - February 2024",
     points: [
       "Developing and maintaining web applications using MERN  and other related technologies for inventory management.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Applying Traceability of Raw Material Pop up notification functionality and Report generation based on transactions.",
     ],
+    title: "Technical Team Member",
+    company_name: "CyberCell VIIT",
+    icon: viit_cy_logo,
+    iconBg: "#383E56",
+    date: "September 2022 - March 2023",
+    points: [
+      "Worked in the development team of VishwaCTF’23, which had a global participation of 2700+ from 98 countries.",
+      "Designed 5+ Challenges in various domains like Reverse Engineering Steganography, Web and Cryptography.",
+      "Kali Linux .",
+    ],
+    
   }];
 
 const testimonials = [
